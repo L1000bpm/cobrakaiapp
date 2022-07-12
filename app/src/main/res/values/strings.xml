@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cobrakaiapp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="registrarse">¿No tiene cuenta? <u><b>Registrate Aquí.</b></u></string>
+</resources>
